@@ -1,0 +1,30 @@
+:root {
+	--color-primario: #4e89ae;
+	--color-primario-hover: #5da1cb;
+	--color-basic-white: #f2f2f2;
+	--color-basic-black: #333;
+	--fuente-principal: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+	--fontzise--title: 1.25rem;
+	--fontzise--subtitle: 1.125rem;
+	--fontzise--paragraph: 1rem;
+	--border-radius: 8px;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+body {
+	max-width: 1200px;
+	margin: auto;
+	font-family: var(--fuente-principal);
+	font-size: 1rem;
+	background-color: var(--color-basic-white);
+	color: var(--color-basic-black);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+}

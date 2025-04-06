@@ -1,0 +1,3604 @@
+{
+  "resultsBancos": {
+    "BBVA": {
+      "Corporativos": [
+        {
+          "categoria": "Corporativos",
+          "tasa": "5.48"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "6.79"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "5.47"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "5.07"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "5.03"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "4.79"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "6.07"
+        }
+      ],
+      "Grandes Empresas": [
+        {
+          "categoria": "Grandes Empresas",
+          "tasa": "7.68"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "8.70"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "7.63"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "7.06"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "7.76"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "7.16"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "7.36"
+        }
+      ],
+      "Medianas Empresas": [
+        {
+          "categoria": "Medianas Empresas",
+          "tasa": "11.35"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "10.66"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "15.38"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "12.90"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "11.12"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "11.25"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "10.79"
+        }
+      ],
+      "Pequeñas Empresas": [
+        {
+          "categoria": "Pequeñas Empresas",
+          "tasa": "16.29"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "12.25"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "20.82"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "17.61"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "16.28"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "15.89"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "16.16"
+        }
+      ],
+      "Microempresas": [
+        {
+          "categoria": "Microempresas",
+          "tasa": "18.50"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "34.83"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "10.92"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "15.74"
+        },
+        {
+          "categoria": "Préstamos a cuota fija hasta 30 días",
+          "tasa": "19.98"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 31 a 90 días",
+          "tasa": "19.70"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 91 a 180 días",
+          "tasa": "15.60"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 181 a 360 días",
+          "tasa": "19.91"
+        },
+        {
+          "categoria": "Préstamos a cuota fija a más de 360 días",
+          "tasa": "17.05"
+        }
+      ],
+      "Consumo": [
+        {
+          "categoria": "Consumo",
+          "tasa": "45.25"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "67.43"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "11.94"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para automóviles",
+          "tasa": "12.63"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad hasta 360 días",
+          "tasa": "17.32"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad a más de 360 días",
+          "tasa": "19.41"
+        },
+        {
+          "categoria": "Créditos pignoraticios",
+          "tasa": "-"
+        }
+      ],
+      "Hipotecarios": [
+        {
+          "categoria": "Hipotecarios",
+          "tasa": "7.44"
+        },
+        {
+          "categoria": "Préstamos hipotecarios para vivienda",
+          "tasa": "7.44"
+        }
+      ]
+    },
+    "Bancom": {
+      "Corporativos": [
+        {
+          "categoria": "Corporativos",
+          "tasa": "5.38"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "5.15"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "5.57"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Grandes Empresas": [
+        {
+          "categoria": "Grandes Empresas",
+          "tasa": "9.56"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "15.84"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "9.30"
+        }
+      ],
+      "Medianas Empresas": [
+        {
+          "categoria": "Medianas Empresas",
+          "tasa": "11.26"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "11.00"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "11.63"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "11.28"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "12.00"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "13.00"
+        }
+      ],
+      "Pequeñas Empresas": [
+        {
+          "categoria": "Pequeñas Empresas",
+          "tasa": "12.04"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "10.50"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "11.20"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "13.33"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "12.00"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "12.00"
+        }
+      ],
+      "Microempresas": [
+        {
+          "categoria": "Microempresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Consumo": [
+        {
+          "categoria": "Consumo",
+          "tasa": "15.36"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "31.39"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para automóviles",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad hasta 360 días",
+          "tasa": "38.21"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad a más de 360 días",
+          "tasa": "15.20"
+        },
+        {
+          "categoria": "Créditos pignoraticios",
+          "tasa": "49.69"
+        }
+      ],
+      "Hipotecarios": [
+        {
+          "categoria": "Hipotecarios",
+          "tasa": "10.36"
+        },
+        {
+          "categoria": "Préstamos hipotecarios para vivienda",
+          "tasa": "10.36"
+        }
+      ]
+    },
+    "Crédito": {
+      "Corporativos": [
+        {
+          "categoria": "Corporativos",
+          "tasa": "5.61"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "6.74"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "5.85"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "5.97"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "5.22"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "5.08"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "5.44"
+        }
+      ],
+      "Grandes Empresas": [
+        {
+          "categoria": "Grandes Empresas",
+          "tasa": "7.79"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "9.25"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "9.00"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "8.52"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "6.68"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "6.90"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "7.05"
+        }
+      ],
+      "Medianas Empresas": [
+        {
+          "categoria": "Medianas Empresas",
+          "tasa": "11.26"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "11.99"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "11.87"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "10.78"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "11.42"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "10.48"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "10.37"
+        }
+      ],
+      "Pequeñas Empresas": [
+        {
+          "categoria": "Pequeñas Empresas",
+          "tasa": "21.15"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "15.38"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "13.29"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "10.31"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "11.18"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "11.96"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "22.55"
+        }
+      ],
+      "Microempresas": [
+        {
+          "categoria": "Microempresas",
+          "tasa": "43.71"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "55.05"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "27.50"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija hasta 30 días",
+          "tasa": "30.07"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 31 a 90 días",
+          "tasa": "15.22"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 181 a 360 días",
+          "tasa": "36.57"
+        },
+        {
+          "categoria": "Préstamos a cuota fija a más de 360 días",
+          "tasa": "43.66"
+        }
+      ],
+      "Consumo": [
+        {
+          "categoria": "Consumo",
+          "tasa": "57.81"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "69.09"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para automóviles",
+          "tasa": "12.43"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad hasta 360 días",
+          "tasa": "83.38"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad a más de 360 días",
+          "tasa": "17.22"
+        },
+        {
+          "categoria": "Créditos pignoraticios",
+          "tasa": "-"
+        }
+      ],
+      "Hipotecarios": [
+        {
+          "categoria": "Hipotecarios",
+          "tasa": "8.29"
+        },
+        {
+          "categoria": "Préstamos hipotecarios para vivienda",
+          "tasa": "8.29"
+        }
+      ]
+    },
+    "Pichincha": {
+      "Corporativos": [
+        {
+          "categoria": "Corporativos",
+          "tasa": "6.22"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "7.85"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "5.95"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "6.13"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Grandes Empresas": [
+        {
+          "categoria": "Grandes Empresas",
+          "tasa": "7.19"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "7.69"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "6.25"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "7.54"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "6.69"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "6.42"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "8.46"
+        }
+      ],
+      "Medianas Empresas": [
+        {
+          "categoria": "Medianas Empresas",
+          "tasa": "9.20"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "5.80"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "10.55"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "8.75"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "9.55"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "9.10"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Pequeñas Empresas": [
+        {
+          "categoria": "Pequeñas Empresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Microempresas": [
+        {
+          "categoria": "Microempresas",
+          "tasa": "29.93"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "29.93"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Consumo": [
+        {
+          "categoria": "Consumo",
+          "tasa": "40.30"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "47.00"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para automóviles",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad hasta 360 días",
+          "tasa": "24.30"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad a más de 360 días",
+          "tasa": "20.42"
+        },
+        {
+          "categoria": "Créditos pignoraticios",
+          "tasa": "-"
+        }
+      ],
+      "Hipotecarios": [
+        {
+          "categoria": "Hipotecarios",
+          "tasa": "9.17"
+        },
+        {
+          "categoria": "Préstamos hipotecarios para vivienda",
+          "tasa": "9.17"
+        }
+      ]
+    },
+    "BIF": {
+      "Corporativos": [
+        {
+          "categoria": "Corporativos",
+          "tasa": "5.91"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "4.64"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "8.83"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "7.52"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "5.70"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "5.16"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Grandes Empresas": [
+        {
+          "categoria": "Grandes Empresas",
+          "tasa": "7.94"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "8.15"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "9.76"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "9.75"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "8.05"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "11.48"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "6.81"
+        }
+      ],
+      "Medianas Empresas": [
+        {
+          "categoria": "Medianas Empresas",
+          "tasa": "12.42"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "14.00"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "10.09"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "12.07"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "11.67"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "12.07"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "9.84"
+        }
+      ],
+      "Pequeñas Empresas": [
+        {
+          "categoria": "Pequeñas Empresas",
+          "tasa": "16.55"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "19.80"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "14.23"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "14.35"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "12.03"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "7.80"
+        }
+      ],
+      "Microempresas": [
+        {
+          "categoria": "Microempresas",
+          "tasa": "23.86"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "23.86"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Consumo": [
+        {
+          "categoria": "Consumo",
+          "tasa": "33.25"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "61.42"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para automóviles",
+          "tasa": "13.18"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad hasta 360 días",
+          "tasa": "12.40"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad a más de 360 días",
+          "tasa": "23.61"
+        },
+        {
+          "categoria": "Créditos pignoraticios",
+          "tasa": "-"
+        }
+      ],
+      "Hipotecarios": [
+        {
+          "categoria": "Hipotecarios",
+          "tasa": "8.36"
+        },
+        {
+          "categoria": "Préstamos hipotecarios para vivienda",
+          "tasa": "8.36"
+        }
+      ]
+    },
+    "Scotiabank": {
+      "Corporativos": [
+        {
+          "categoria": "Corporativos",
+          "tasa": "5.73"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "6.13"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "4.90"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "4.89"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "5.47"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "4.90"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "6.39"
+        }
+      ],
+      "Grandes Empresas": [
+        {
+          "categoria": "Grandes Empresas",
+          "tasa": "7.51"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "7.53"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "6.36"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "7.95"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "7.27"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "8.87"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "7.23"
+        }
+      ],
+      "Medianas Empresas": [
+        {
+          "categoria": "Medianas Empresas",
+          "tasa": "9.78"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "10.22"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "11.15"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "10.38"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "9.51"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "9.38"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "9.34"
+        }
+      ],
+      "Pequeñas Empresas": [
+        {
+          "categoria": "Pequeñas Empresas",
+          "tasa": "12.97"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "10.09"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "7.19"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "10.25"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "10.59"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "9.95"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "13.55"
+        }
+      ],
+      "Microempresas": [
+        {
+          "categoria": "Microempresas",
+          "tasa": "13.28"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 31 a 90 días",
+          "tasa": "11.00"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 91 a 180 días",
+          "tasa": "8.00"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 181 a 360 días",
+          "tasa": "10.00"
+        },
+        {
+          "categoria": "Préstamos a cuota fija a más de 360 días",
+          "tasa": "14.39"
+        }
+      ],
+      "Consumo": [
+        {
+          "categoria": "Consumo",
+          "tasa": "48.21"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "58.62"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para automóviles",
+          "tasa": "11.05"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad hasta 360 días",
+          "tasa": "22.62"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad a más de 360 días",
+          "tasa": "18.08"
+        },
+        {
+          "categoria": "Créditos pignoraticios",
+          "tasa": "-"
+        }
+      ],
+      "Hipotecarios": [
+        {
+          "categoria": "Hipotecarios",
+          "tasa": "7.91"
+        },
+        {
+          "categoria": "Préstamos hipotecarios para vivienda",
+          "tasa": "7.91"
+        }
+      ]
+    },
+    "Citibank": {
+      "Corporativos": [
+        {
+          "categoria": "Corporativos",
+          "tasa": "5.75"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "5.75"
+        }
+      ],
+      "Grandes Empresas": [
+        {
+          "categoria": "Grandes Empresas",
+          "tasa": "8.50"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "8.50"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Medianas Empresas": [
+        {
+          "categoria": "Medianas Empresas",
+          "tasa": "7.99"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "7.99"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Pequeñas Empresas": [
+        {
+          "categoria": "Pequeñas Empresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Microempresas": [
+        {
+          "categoria": "Microempresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Consumo": [
+        {
+          "categoria": "Consumo",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para automóviles",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad hasta 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad a más de 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Créditos pignoraticios",
+          "tasa": "-"
+        }
+      ],
+      "Hipotecarios": [
+        {
+          "categoria": "Hipotecarios",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hipotecarios para vivienda",
+          "tasa": "-"
+        }
+      ]
+    },
+    "Interbank": {
+      "Corporativos": [
+        {
+          "categoria": "Corporativos",
+          "tasa": "6.74"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "6.43"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "7.18"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "7.77"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "6.91"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "4.98"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "6.82"
+        }
+      ],
+      "Grandes Empresas": [
+        {
+          "categoria": "Grandes Empresas",
+          "tasa": "8.01"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "8.23"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "8.38"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "7.48"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "7.82"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "6.70"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "7.84"
+        }
+      ],
+      "Medianas Empresas": [
+        {
+          "categoria": "Medianas Empresas",
+          "tasa": "9.34"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "9.47"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "5.73"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "9.09"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "7.97"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "8.86"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "12.96"
+        }
+      ],
+      "Pequeñas Empresas": [
+        {
+          "categoria": "Pequeñas Empresas",
+          "tasa": "15.75"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "10.38"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "11.55"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "9.33"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "18.31"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "17.33"
+        }
+      ],
+      "Microempresas": [
+        {
+          "categoria": "Microempresas",
+          "tasa": "16.69"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "13.44"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 91 a 180 días",
+          "tasa": "9.00"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 181 a 360 días",
+          "tasa": "20.00"
+        },
+        {
+          "categoria": "Préstamos a cuota fija a más de 360 días",
+          "tasa": "19.53"
+        }
+      ],
+      "Consumo": [
+        {
+          "categoria": "Consumo",
+          "tasa": "59.15"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "67.12"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para automóviles",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad hasta 360 días",
+          "tasa": "22.31"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad a más de 360 días",
+          "tasa": "17.45"
+        },
+        {
+          "categoria": "Créditos pignoraticios",
+          "tasa": "-"
+        }
+      ],
+      "Hipotecarios": [
+        {
+          "categoria": "Hipotecarios",
+          "tasa": "7.88"
+        },
+        {
+          "categoria": "Préstamos hipotecarios para vivienda",
+          "tasa": "7.88"
+        }
+      ]
+    },
+    "Mibanco": {
+      "Corporativos": [
+        {
+          "categoria": "Corporativos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Grandes Empresas": [
+        {
+          "categoria": "Grandes Empresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Medianas Empresas": [
+        {
+          "categoria": "Medianas Empresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Pequeñas Empresas": [
+        {
+          "categoria": "Pequeñas Empresas",
+          "tasa": "24.31"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "33.99"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "48.39"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "39.29"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "31.21"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "21.85"
+        }
+      ],
+      "Microempresas": [
+        {
+          "categoria": "Microempresas",
+          "tasa": "48.17"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "52.50"
+        },
+        {
+          "categoria": "Préstamos a cuota fija hasta 30 días",
+          "tasa": "85.08"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 31 a 90 días",
+          "tasa": "78.55"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 91 a 180 días",
+          "tasa": "69.06"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 181 a 360 días",
+          "tasa": "59.41"
+        },
+        {
+          "categoria": "Préstamos a cuota fija a más de 360 días",
+          "tasa": "33.89"
+        }
+      ],
+      "Consumo": [
+        {
+          "categoria": "Consumo",
+          "tasa": "58.30"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "62.28"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para automóviles",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad hasta 360 días",
+          "tasa": "70.12"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad a más de 360 días",
+          "tasa": "45.10"
+        },
+        {
+          "categoria": "Créditos pignoraticios",
+          "tasa": "-"
+        }
+      ],
+      "Hipotecarios": [
+        {
+          "categoria": "Hipotecarios",
+          "tasa": "16.58"
+        },
+        {
+          "categoria": "Préstamos hipotecarios para vivienda",
+          "tasa": "16.58"
+        }
+      ]
+    },
+    "GNB": {
+      "Corporativos": [
+        {
+          "categoria": "Corporativos",
+          "tasa": "5.59"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "5.18"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "6.10"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "6.05"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "4.70"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Grandes Empresas": [
+        {
+          "categoria": "Grandes Empresas",
+          "tasa": "7.42"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "7.42"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "8.44"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "5.60"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "8.83"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "7.00"
+        }
+      ],
+      "Medianas Empresas": [
+        {
+          "categoria": "Medianas Empresas",
+          "tasa": "9.80"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "9.80"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Pequeñas Empresas": [
+        {
+          "categoria": "Pequeñas Empresas",
+          "tasa": "11.20"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "11.20"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Microempresas": [
+        {
+          "categoria": "Microempresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Consumo": [
+        {
+          "categoria": "Consumo",
+          "tasa": "28.47"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "34.30"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para automóviles",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad hasta 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad a más de 360 días",
+          "tasa": "12.02"
+        },
+        {
+          "categoria": "Créditos pignoraticios",
+          "tasa": "-"
+        }
+      ],
+      "Hipotecarios": [
+        {
+          "categoria": "Hipotecarios",
+          "tasa": "7.80"
+        },
+        {
+          "categoria": "Préstamos hipotecarios para vivienda",
+          "tasa": "7.80"
+        }
+      ]
+    },
+    "Falabella": {
+      "Corporativos": [
+        {
+          "categoria": "Corporativos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Grandes Empresas": [
+        {
+          "categoria": "Grandes Empresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Medianas Empresas": [
+        {
+          "categoria": "Medianas Empresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Pequeñas Empresas": [
+        {
+          "categoria": "Pequeñas Empresas",
+          "tasa": "26.37"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "26.37"
+        }
+      ],
+      "Microempresas": [
+        {
+          "categoria": "Microempresas",
+          "tasa": "23.13"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija a más de 360 días",
+          "tasa": "23.13"
+        }
+      ],
+      "Consumo": [
+        {
+          "categoria": "Consumo",
+          "tasa": "85.94"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "95.19"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para automóviles",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad hasta 360 días",
+          "tasa": "33.96"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad a más de 360 días",
+          "tasa": "28.45"
+        },
+        {
+          "categoria": "Créditos pignoraticios",
+          "tasa": "-"
+        }
+      ],
+      "Hipotecarios": [
+        {
+          "categoria": "Hipotecarios",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hipotecarios para vivienda",
+          "tasa": "-"
+        }
+      ]
+    },
+    "Santander": {
+      "Corporativos": [
+        {
+          "categoria": "Corporativos",
+          "tasa": "9.88"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "8.37"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "11.61"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "9.99"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "8.90"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Grandes Empresas": [
+        {
+          "categoria": "Grandes Empresas",
+          "tasa": "8.68"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "9.32"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "10.43"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "9.11"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "6.70"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "10.36"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "8.08"
+        }
+      ],
+      "Medianas Empresas": [
+        {
+          "categoria": "Medianas Empresas",
+          "tasa": "7.87"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "9.10"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "7.49"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "7.64"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "9.45"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "7.77"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "10.70"
+        }
+      ],
+      "Pequeñas Empresas": [
+        {
+          "categoria": "Pequeñas Empresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Microempresas": [
+        {
+          "categoria": "Microempresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Consumo": [
+        {
+          "categoria": "Consumo",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para automóviles",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad hasta 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad a más de 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Créditos pignoraticios",
+          "tasa": "-"
+        }
+      ],
+      "Hipotecarios": [
+        {
+          "categoria": "Hipotecarios",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hipotecarios para vivienda",
+          "tasa": "-"
+        }
+      ]
+    },
+    "Ripley": {
+      "Corporativos": [
+        {
+          "categoria": "Corporativos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Grandes Empresas": [
+        {
+          "categoria": "Grandes Empresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Medianas Empresas": [
+        {
+          "categoria": "Medianas Empresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Pequeñas Empresas": [
+        {
+          "categoria": "Pequeñas Empresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Microempresas": [
+        {
+          "categoria": "Microempresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Consumo": [
+        {
+          "categoria": "Consumo",
+          "tasa": "79.44"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "99.61"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para automóviles",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad hasta 360 días",
+          "tasa": "54.77"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad a más de 360 días",
+          "tasa": "33.03"
+        },
+        {
+          "categoria": "Créditos pignoraticios",
+          "tasa": "-"
+        }
+      ],
+      "Hipotecarios": [
+        {
+          "categoria": "Hipotecarios",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hipotecarios para vivienda",
+          "tasa": "-"
+        }
+      ]
+    },
+    "Alfin": {
+      "Corporativos": [
+        {
+          "categoria": "Corporativos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Grandes Empresas": [
+        {
+          "categoria": "Grandes Empresas",
+          "tasa": "11.87"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "12.68"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "11.00"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "11.93"
+        }
+      ],
+      "Medianas Empresas": [
+        {
+          "categoria": "Medianas Empresas",
+          "tasa": "11.75"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "13.00"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "11.00"
+        }
+      ],
+      "Pequeñas Empresas": [
+        {
+          "categoria": "Pequeñas Empresas",
+          "tasa": "12.00"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "12.00"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Microempresas": [
+        {
+          "categoria": "Microempresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Consumo": [
+        {
+          "categoria": "Consumo",
+          "tasa": "59.73"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para automóviles",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad hasta 360 días",
+          "tasa": "60.55"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad a más de 360 días",
+          "tasa": "59.73"
+        },
+        {
+          "categoria": "Créditos pignoraticios",
+          "tasa": "-"
+        }
+      ],
+      "Hipotecarios": [
+        {
+          "categoria": "Hipotecarios",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hipotecarios para vivienda",
+          "tasa": "-"
+        }
+      ]
+    },
+    "ICBC": {
+      "Corporativos": [
+        {
+          "categoria": "Corporativos",
+          "tasa": "7.16"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "7.50"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "6.96"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "7.43"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Grandes Empresas": [
+        {
+          "categoria": "Grandes Empresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Medianas Empresas": [
+        {
+          "categoria": "Medianas Empresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Pequeñas Empresas": [
+        {
+          "categoria": "Pequeñas Empresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Microempresas": [
+        {
+          "categoria": "Microempresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Consumo": [
+        {
+          "categoria": "Consumo",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para automóviles",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad hasta 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad a más de 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Créditos pignoraticios",
+          "tasa": "-"
+        }
+      ],
+      "Hipotecarios": [
+        {
+          "categoria": "Hipotecarios",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hipotecarios para vivienda",
+          "tasa": "-"
+        }
+      ]
+    },
+    "Bank of China": {
+      "Corporativos": [
+        {
+          "categoria": "Corporativos",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "s.i."
+        }
+      ],
+      "Grandes Empresas": [
+        {
+          "categoria": "Grandes Empresas",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "s.i."
+        }
+      ],
+      "Medianas Empresas": [
+        {
+          "categoria": "Medianas Empresas",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "s.i."
+        }
+      ],
+      "Pequeñas Empresas": [
+        {
+          "categoria": "Pequeñas Empresas",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "s.i."
+        }
+      ],
+      "Microempresas": [
+        {
+          "categoria": "Microempresas",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos a cuota fija hasta 30 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 31 a 90 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 91 a 180 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 181 a 360 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos a cuota fija a más de 360 días",
+          "tasa": "s.i."
+        }
+      ],
+      "Consumo": [
+        {
+          "categoria": "Consumo",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos no Revolventes para automóviles",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad hasta 360 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad a más de 360 días",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Créditos pignoraticios",
+          "tasa": "s.i."
+        }
+      ],
+      "Hipotecarios": [
+        {
+          "categoria": "Hipotecarios",
+          "tasa": "s.i."
+        },
+        {
+          "categoria": "Préstamos hipotecarios para vivienda",
+          "tasa": "s.i."
+        }
+      ]
+    },
+    "BCI": {
+      "Corporativos": [
+        {
+          "categoria": "Corporativos",
+          "tasa": "5.94"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "5.62"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "9.75"
+        }
+      ],
+      "Grandes Empresas": [
+        {
+          "categoria": "Grandes Empresas",
+          "tasa": "5.35"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "8.04"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "5.30"
+        }
+      ],
+      "Medianas Empresas": [
+        {
+          "categoria": "Medianas Empresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Pequeñas Empresas": [
+        {
+          "categoria": "Pequeñas Empresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Microempresas": [
+        {
+          "categoria": "Microempresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a cuota fija a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Consumo": [
+        {
+          "categoria": "Consumo",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para automóviles",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad hasta 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad a más de 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Créditos pignoraticios",
+          "tasa": "-"
+        }
+      ],
+      "Hipotecarios": [
+        {
+          "categoria": "Hipotecarios",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hipotecarios para vivienda",
+          "tasa": "-"
+        }
+      ]
+    },
+    "Compartamos": {
+      "Corporativos": [
+        {
+          "categoria": "Corporativos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Grandes Empresas": [
+        {
+          "categoria": "Grandes Empresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Medianas Empresas": [
+        {
+          "categoria": "Medianas Empresas",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "-"
+        }
+      ],
+      "Pequeñas Empresas": [
+        {
+          "categoria": "Pequeñas Empresas",
+          "tasa": "28.84"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hasta 30 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 31 a 90 días",
+          "tasa": "55.90"
+        },
+        {
+          "categoria": "Préstamos de 91 a 180 días",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos de 181 a 360 días",
+          "tasa": "41.05"
+        },
+        {
+          "categoria": "Préstamos a más de 360 días",
+          "tasa": "28.28"
+        }
+      ],
+      "Microempresas": [
+        {
+          "categoria": "Microempresas",
+          "tasa": "82.73"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Descuentos",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "39.14"
+        },
+        {
+          "categoria": "Préstamos a cuota fija hasta 30 días",
+          "tasa": "112.09"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 31 a 90 días",
+          "tasa": "112.13"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 91 a 180 días",
+          "tasa": "111.55"
+        },
+        {
+          "categoria": "Préstamos a cuota fija de 181 a 360 días",
+          "tasa": "74.36"
+        },
+        {
+          "categoria": "Préstamos a cuota fija a más de 360 días",
+          "tasa": "36.34"
+        }
+      ],
+      "Consumo": [
+        {
+          "categoria": "Consumo",
+          "tasa": "36.22"
+        },
+        {
+          "categoria": "Tarjetas de Crédito",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos Revolventes",
+          "tasa": "84.22"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para automóviles",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad hasta 360 días",
+          "tasa": "54.09"
+        },
+        {
+          "categoria": "Préstamos no Revolventes para libre disponibilidad a más de 360 días",
+          "tasa": "35.44"
+        },
+        {
+          "categoria": "Créditos pignoraticios",
+          "tasa": "-"
+        }
+      ],
+      "Hipotecarios": [
+        {
+          "categoria": "Hipotecarios",
+          "tasa": "-"
+        },
+        {
+          "categoria": "Préstamos hipotecarios para vivienda",
+          "tasa": "-"
+        }
+      ]
+    }
+  }
+}

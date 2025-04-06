@@ -1,0 +1,10 @@
+.form {
+	background-color: #e3e3e3;
+	border-radius: var(--border-radius);
+	padding: 1em;
+	margin-bottom: 1em;
+}
+.container_btn {
+	display: flex;
+	gap: 20px;
+}

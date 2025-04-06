@@ -1,0 +1,17 @@
+.main {
+	background-color: #e3e3e3;
+	border-radius: var(--border-radius);
+	padding: 1em;
+	margin-bottom: 1em;
+}
+.main-title {
+	font-size: var(--fontzise--title);
+}
+.main-results {
+	font-size: var(--fontzise--subtitle);
+	margin: 1em 0;
+}
+
+.main-results--finish {
+	font-size: var(--fontzise--title);
+}

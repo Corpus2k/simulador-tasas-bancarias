@@ -1,0 +1,19 @@
+header {
+	text-align: center;
+	padding: 1.5em 0;
+	background-color: var(--color-primario);
+	font-size: var(--fontzise--title);
+	border-top-right-radius: 1em;
+	border-top-left-radius: 1em;
+}
+
+.title,
+.paragraph-title {
+	color: #f2f2f2;
+}
+
+.paragraph {
+	font-size: var(--fontzise--subtitle);
+	text-align: start;
+	padding: 0.5em 0;
+}

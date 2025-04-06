@@ -1,0 +1,33 @@
+.btn-form {
+	padding: 0.7em 1.2em;
+	background-color: var(--color-primario);
+	border-radius: var(--border-radius);
+	color: var(--color-basic-white);
+	border: none;
+	cursor: pointer;
+	font-size: var(--fontzise--paragraph);
+}
+
+.btn-form:hover {
+	background-color: var(--color-primario-hover);
+}
+
+.btn-form-secundary {
+	padding: 0.7em 1.2em;
+	border-radius: var(--border-radius);
+	color: var(--color-primario);
+	background-color: var(--color-basic-white);
+	border: none;
+	outline: 1px solid var(--color-primario);
+	cursor: pointer;
+	font-size: var(--fontzise--paragraph);
+}
+.btn-form-secundary:hover {
+	padding: 0.7em 1.2em;
+	background-color: var(--color-primario);
+	border-radius: var(--border-radius);
+	color: var(--color-basic-white);
+	border: none;
+	cursor: pointer;
+	font-size: var(--fontzise--paragraph);
+}

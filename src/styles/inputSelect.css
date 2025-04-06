@@ -1,0 +1,29 @@
+.container-select {
+	padding: 1em 0;
+}
+
+.container-select-label {
+	font-size: var(--fontzise--subtitle);
+	font-weight: lighter;
+}
+
+.container-select-select {
+	background-color: var(--color-basic-white);
+	border: none;
+	border-radius: var(--border-radius);
+	cursor: pointer;
+	padding: 0.5rem;
+	outline: 1px solid #ccc;
+	font-size: var(--fontzise--paragraph);
+}
+
+.container-select-option {
+	padding: 1em;
+	background: var(--color-basic-white);
+	font-size: var(--fontzise--paragraph);
+}
+
+.container-select-select:disabled,
+.container-select-option:disabled {
+	cursor: not-allowed;
+}
