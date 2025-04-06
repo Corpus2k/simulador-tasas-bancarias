@@ -1,12 +1,13 @@
-# React + Vite
+# Simulador de Tasas de Interés
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es un **simulador de tasas de interés** que permite consultar las tasas de interés anual referencial de diferentes bancos en Perú, según la información pública disponible en la página oficial de la Superintendencia de Banca, Seguros y AFP (SBS).
 
-Currently, two official plugins are available:
+## Descripción
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este sistema permite seleccionar un banco y una categoría y tipo de prestamo para visualizar las tasas de interés anual referencial vigentes, obtenidas a través de un proceso de **web scraping** de la página oficial de la SBS.
 
-## Expanding the ESLint configuration
+**¡Este sistema tiene fines educativos e informativos!**
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Aviso Legal
+
+\*\* ⚠️ Las tasas mostradas son de la fecha 05/04/25 y podrían variar. Este sistema tiene fines educativos e informativos. Los datos fueron obtenidos de la página oficial de la SBS.
